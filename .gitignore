@@ -1,0 +1,40 @@
+# Unreal Engine generated files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Packaged builds
+Build/Windows/
+
+# IDE and local user files
+.vs/
+.idea/
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.VC.opendb
+*.code-workspace
+*.DotSettings.user
+
+# Visual Studio / Rider generated files
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs and crash dumps
+*.log
+*.dmp
+*.mdmp
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Plugin generated files
+Plugins/**/Binaries/
+Plugins/**/Intermediate/
+Plugins/**/Saved/
